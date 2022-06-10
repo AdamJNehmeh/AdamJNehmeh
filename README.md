@@ -4,7 +4,7 @@
 - 👀 data procurement, DBMS, data prep, modeling, validation, deployment and feedback.
 - 🌱 I’m currently learning ... idk where to start! I guess coding and linear algebra practice (ideally both).
 - 💞️ I’m looking to collaborate with anyone! 
-- 📫Please feel free to message me here whenever you'd like. I'm always eager to exchange ideas, learn and collaborate with others :)
+- 📫Please feel free to message me here whenever you'd like. I'm always eager to exchange ideas & collaborate with others :)
 
 <!---
 AdamJNehmeh/AdamJNehmeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
